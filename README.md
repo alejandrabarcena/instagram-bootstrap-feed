@@ -23,6 +23,19 @@ Un mini-proyecto web inspirado en Instagram, protagonizado por **Patsy la pug �
 
 ---
 
+## 🚀 Deploy del proyecto
+
+👉 **Verlo en vivo:**  
+[🌐 https://alejandrabarcena.github.io/instagram-bootstrap-feed/](https://alejandrabarcena.github.io/instagram-bootstrap-feed/)
+
+---
+
+## 🖼️ Vista previa
+
+![Vista previa de Patsy Feed](https://github.com/alejandrabarcena/instagram-bootstrap-feed/blob/main/vistaprevia.png)
+
+---
+
 ## ⚙️ Estructura de archivos
 
 📁 instagram-bootstrap-feed
@@ -32,7 +45,7 @@ Un mini-proyecto web inspirado en Instagram, protagonizado por **Patsy la pug �
 └── README.md ← (este archivo)
 
 
-
+---
 
 ## ✨ Autora
 
@@ -44,7 +57,7 @@ Un mini-proyecto web inspirado en Instagram, protagonizado por **Patsy la pug �
 
 ## 📬 Conecta conmigo
 
-- GitHub: [alejandrabarcena](https://github.com/alejandrabarcena)
+- GitHub: [@alejandrabarcena](https://github.com/alejandrabarcena)
 - Portfolio: _coming soon..._
 - Email: alejandrabarcena2024@gmail.com
 
