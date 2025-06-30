@@ -1,0 +1,14 @@
+body {
+  background-color: #fff7fa;
+  font-family: 'Poppins', sans-serif;
+}
+
+img {
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 12px;
+  transition: transform 0.2s ease-in-out;
+}
+
+img:hover {
+  transform: scale(1.03);
+}
