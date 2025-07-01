@@ -33,13 +33,8 @@ Este proyecto consiste en la recreación visual y funcional de un feed estilo In
 
 ### 📷 Feed vertical completo (modo Post)
 
-![vista previa 1](https://github.com/alejandrabarcena/instagram-bootstrap-feed/blob/main/vistaprevia.png?raw=true)
 
-### 🖼️ Galería tipo Instagram con grid 3x3
 
-![vista previa 2](https://github.com/alejandrabarcena/instagram-bootstrap-feed/blob/main/vista%20previa%202.png?raw=true)
-
----
 
 ## 🧠 Conceptos aplicados
 
